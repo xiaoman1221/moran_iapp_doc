@@ -1,17 +1,17 @@
 # 宝塔安装
 
 如果您用的是宝塔面板：请您填写好这些选项，注意数据库和PHP版本\
-![](.gitbook/assets/image.png)\
+![](../.gitbook/assets/image.png)\
 创建好了之后访问您的域名，如果出现这个提示\
-![](<.gitbook/assets/image (1) (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 则证明您的环境基本正常，这是您可以选择是否添加SSL来保证您的安全\
-![](<.gitbook/assets/image (9).png>)\
+![](<../.gitbook/assets/image (9).png>)\
 
 
 我们需要进行两步很重要的操作，如果不成功，您的站点将无法访问\
-![](<.gitbook/assets/image (10).png>)\
+![](<../.gitbook/assets/image (10).png>)\
 在这一步请不要忘记保存\
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 Nginx的伪静态：
 
@@ -61,25 +61,25 @@ Web服务器看到这样的地址，找到`abc.php`这个文件，会交给PHP�
 上传-》解压-》你可以看到解压的目录有一个：mrhtsqlcs.sql  ，这个就是默然Iapp需要用到的数据库文件\
 我们有两种方式来安装数据库文件\
 1、通过宝塔的导入功能来自动导入文件\
-![](<.gitbook/assets/image (6).png>)\
-![](<.gitbook/assets/image (12).png>)\
-![](<.gitbook/assets/image (7).png>)\
+![](<../.gitbook/assets/image (6).png>)\
+![](<../.gitbook/assets/image (12).png>)\
+![](<../.gitbook/assets/image (7).png>)\
 2、在著名的PHPMyAdmin里面导入\
-![](<.gitbook/assets/image (11).png>)\
-![](<.gitbook/assets/image (13).png>)\
+![](<../.gitbook/assets/image (11).png>)\
+![](<../.gitbook/assets/image (13).png>)\
 \
-![](<.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 如图示，我不想多写什么，因为太简单\
 接下来我们需要修改一下可可爱爱的Config文件，文件在\
 your.domain/config/database.php\
-![](<.gitbook/assets/image (3).png>)\
+![](<../.gitbook/assets/image (3).png>)\
 当我们费劲的到了这里（划掉）\
-![](<.gitbook/assets/image (5).png>)\
+![](<../.gitbook/assets/image (5).png>)\
 我TM直接差评（划掉
 
 总之大家不用担心，访问your.domain/moran\
 账号密码：moran
 
-![](<.gitbook/assets/image (8).png>)\
+![](<../.gitbook/assets/image (8).png>)\
 我们就进入了后台，至此就安装成功了，是不是很简单呢
