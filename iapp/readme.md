@@ -14,4 +14,4 @@ description: 默然iapp管理系统是由默然大大单独一人开发的免费
 后台: mrht.moranblog.cn/moran/ \
 账号：moran 密码：moran\
 \
-下载地址：[https://mrbk.lanzouj.com/ily8Mytxdhg](https://mrbk.lanzouj.com/ily8Mytxdhg)\
+下载地址：[http://www.moranblog.cn/](http://www.moranblog.cn)
