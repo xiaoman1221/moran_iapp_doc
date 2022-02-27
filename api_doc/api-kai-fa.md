@@ -14,4 +14,4 @@ description: 适用于:默然iapp管理系统5.1
 除了设置过默认的，直接访问域名即可，其他的访问地址 均为域名/app/应用aid
 
 \
-\
+文档链接：[https://easydoc.net/doc/83500866/12KFDrZV/gdOvbnBA](https://easydoc.net/doc/83500866/12KFDrZV/gdOvbnBA)\
