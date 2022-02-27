@@ -13,3 +13,7 @@
 ## API文档 <a href="#api_doc" id="api_doc"></a>
 
 * [Api开发](api\_doc/api-kai-fa.md)
+
+***
+
+* [提问的智慧](ti-wen-de-zhi-hui.md)
