@@ -1,10 +1,9 @@
 # 宝塔安装
 
-如果您用的是宝塔面板：请您填写好这些选项，注意数据库和PHP版本\
+<mark style="color:blue;">如果您用的是宝塔面板：请您填写好这些选项，注意数据库和PHP版本</mark>\
 ![](../../.gitbook/assets/image.png)\
-创建好了之后访问您的域名，如果出现这个提示\
-![](<../../.gitbook/assets/image (1) (1).png>)\
-则证明您的环境基本正常，这是您可以选择是否添加SSL来保证您的安全\
+<mark style="color:blue;">创建好了之后访问您的域名，如果出现这个提示</mark>\ <mark style="color:blue;"></mark>![](<../../.gitbook/assets/image (1) (1).png>)\
+则证明您的环境基本正常，这里您可以选择是否添加SSL来保证您的安全\
 ![](<../../.gitbook/assets/image (9).png>)\
 
 
@@ -78,7 +77,7 @@ your.domain/config/database.php\
 ![](<../../.gitbook/assets/image (5).png>)\
 我TM直接差评（划掉
 
-总之大家不用担心，访问your.domain/moran\
+总之大家不用担心，这是正常压面，访问your.domain/moran\
 账号密码：moran
 
 ![](<../../.gitbook/assets/image (8).png>)\
