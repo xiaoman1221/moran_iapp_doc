@@ -77,9 +77,9 @@ your.domain/config/database.php\
 ![](<../../.gitbook/assets/image (5).png>)\
 我TM直接差评（划掉
 
-总之大家不用担心，这是正常压面，访问your.domain/admin\
+总之大家不用担心，这是正常页面，访问your.domain/admin\
 账号：admin\
 密码：123456
 
 ![](<../../.gitbook/assets/image (8).png>)\
-我们就进入了后台，至此就安装成功了，是不是很简单呢
+我们就进入了后台，至此就安装成功。
