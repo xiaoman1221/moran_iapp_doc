@@ -1,4 +1,12 @@
-# 宝塔安装
+---
+description: 如果您准备使用宝塔面板进行安装我们的框架
+---
+
+# 🤣 宝塔安装
+
+<mark style="color:red;">好消息，默然IApp后台已成功通过宝塔一键部署相关审核，已经上架版本：5.4</mark>
+
+以下是手动安装的教程：
 
 <mark style="color:blue;">如果您用的是宝塔面板：请您填写好这些选项，注意数据库和PHP版本</mark>\
 ![](../../.gitbook/assets/image.png)\

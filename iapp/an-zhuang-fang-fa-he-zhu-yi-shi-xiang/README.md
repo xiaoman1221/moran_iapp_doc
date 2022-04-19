@@ -19,6 +19,6 @@ description: 保姆式教学，看就完了
 2、数据库 环境 MySQL5.7\
 3、Apache或者Nginx等一系列及其衍生的Web服务器（不支持IIS）\
 \
-我们推荐使用宝塔面板（不是恰饭）==》[https://www.bt.cn/bbs/thread-19376-1-1.html](https://www.bt.cn/bbs/thread-19376-1-1.html)\
+我们推荐使用宝塔面板（不是恰饭）==》[<mark style="color:blue;">https://www.bt.cn/</mark>](https://www.bt.cn)\
 
 
