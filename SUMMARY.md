@@ -1,6 +1,6 @@
 # Table of contents
 
-* [默然文档馆](README.md)
+* [文档馆](README.md)
 
 ## 默然iapp管理系统 <a href="#iapp" id="iapp"></a>
 
