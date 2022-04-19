@@ -5,8 +5,9 @@
 ## 默然iapp管理系统 <a href="#iapp" id="iapp"></a>
 
 * [简介](iapp/readme.md)
-* [安装注意事项](iapp/an-zhuang-zhu-yi-shi-xiang/README.md)
-  * [宝塔安装](iapp/an-zhuang-zhu-yi-shi-xiang/bao-ta-an-zhuang.md)
+* [安装方法和注意事项](iapp/an-zhuang-fang-fa-he-zhu-yi-shi-xiang/README.md)
+  * [宝塔安装](iapp/an-zhuang-fang-fa-he-zhu-yi-shi-xiang/bao-ta-an-zhuang.md)
+  * [康乐面板](iapp/an-zhuang-fang-fa-he-zhu-yi-shi-xiang/kang-le-mian-ban.md)
 
 ## 语音管家app <a href="#yuyin" id="yuyin"></a>
 
